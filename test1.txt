@@ -1,1 +1,1 @@
-creates test1.thxt file
+creates test1.tht file
